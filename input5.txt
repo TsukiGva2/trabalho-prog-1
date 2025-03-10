@@ -1,0 +1,14 @@
+5
+0 0
+5 5
+2 2
+1 1
+3 3
+Charizard
+100 30 10
+Garchomp
+100 25 15
+Steelix
+100 10 30
+Machamp
+100 22 18

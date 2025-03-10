@@ -1,0 +1,4 @@
+Caminho: 0 5 7 8 2 10 4 1 6 3 9 0
+Distancia: 335.354922
+Campeao: Venusaur
+Numero de vitorias: 7

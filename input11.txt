@@ -1,0 +1,32 @@
+11
+-12 34
+45 -23
+-5 -18
+30 10
+7 -42
+-33 28
+50 -50
+-27 15
+-40 -5
+22 37
+18 -29
+Charizard
+90 28 12
+Garchomp
+95 26 14
+Blastoise
+100 18 22
+Tyranitar
+95 24 16
+Gengar
+85 32 8
+Milotic
+100 16 24
+Haxorus
+90 30 10
+Lucario
+95 22 18
+Venusaur
+100 20 20
+Dragonite
+95 26 14

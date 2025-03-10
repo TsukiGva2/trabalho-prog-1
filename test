@@ -1,0 +1,9 @@
+#!/bin/sh
+
+python3 pokemon.py < input5.txt > saidas/output5.txt
+python3 pokemon.py < input7.txt > saidas/output7.txt
+python3 pokemon.py < input11.txt > saidas/output11.txt
+
+diff output5prof.txt saidas/output5.txt
+diff output7prof.txt saidas/output7.txt
+diff output11prof.txt saidas/output11.txt

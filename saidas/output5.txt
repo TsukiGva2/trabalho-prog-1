@@ -1,0 +1,4 @@
+Caminho: 0 3 2 4 1 0
+Distancia: 14.142136
+Campeao: Charizard
+Numero de vitorias: 2
